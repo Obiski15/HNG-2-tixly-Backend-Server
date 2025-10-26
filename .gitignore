@@ -1,0 +1,7 @@
+node_modules/
+
+# env variable
+.env*
+
+# json db
+db.json
